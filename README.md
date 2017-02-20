@@ -32,4 +32,4 @@ This style is exactly the same as `sidebarleft`, except that the side bar is on 
 3. **Other theme elements**: If you wish to change some theme elements (e.g., width of the side bar), study the file `beamerthemeCaltech.sty` and make careful changes as you wish.
 
 ### Acknoledgements
-I first googled "Caltech beamer theme" and this Github repository came up: https://github.com/hmaarrfk/caltech-beamer. However, I realized that that theme was already outdated: the Caltech seal image is now discouraged for non-formal usage such as presentation slides (http://identity.caltech.edu/standards/visual/seal). Therefore I spent a few hours and made this new beamer theme.
+I first googled "Caltech beamer theme" and this Github repository came up: https://github.com/hmaarrfk/caltech-beamer. However, I realized that that theme was already outdated: the Caltech seal image is now discouraged for non-formal usage such as presentation slides (http://identity.caltech.edu/standards/visual/seal). Therefore spent a few hours and made this new beamer theme, with some of the color scheme definitions taken from the older repository.
