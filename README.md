@@ -19,6 +19,12 @@ This style has the Caltech logo on the bottom-right corner, and slide titles in 
 ##### 2. The `sidebarleft` ("side bar left") style
 This style has a side bar on the left, which shows the structure of the presentation (e.g., abbreviated title, table of contents, etc.). The Caltech logo is on the top-left corner. The use of 16:9 aspect ratio is recommended, since the side bar takes up some horizontal space, and also most of the projectors these days support 16:9 ratio.
 
+The method to set the aspect ratio to 16:9 is the following:
+
+```{tex}
+\documentclass[aspectratio=169]{beamer}
+```
+
 ![](https://github.com/jsh9/Caltech-beamer-theme/blob/master/screenshots/sidebarleft.png)
 
 ##### 3. The `sidebarright` ("side bar right") style
