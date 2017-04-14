@@ -42,5 +42,5 @@ I got my inspiration from an older Caltech beamer theme: https://github.com/hmaa
 
 ### As templates
 This Beamer template has been published on both sharelatex.come and overleaf.com. Links:
-https://www.sharelatex.com/templates/58b4ad79546799785c1df893
-https://www.overleaf.com/latex/templates/caltech-beamer-template-new/rwrsmsxzdxzy
+[ShareLaTeX](https://www.sharelatex.com/templates/58b4ad79546799785c1df893), 
+[Overleaf](https://www.overleaf.com/latex/templates/caltech-beamer-template-new/rwrsmsxzdxzy)
