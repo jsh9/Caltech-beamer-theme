@@ -1,5 +1,5 @@
 # Caltech beamer theme
-######A LaTeX beamer theme using Caltech logo and color
+###### A LaTeX beamer theme using Caltech logo and color
 
 ### How to use this theme
 The syntax is very easy; simply insert the following command in the LaTeX preamble:
@@ -39,3 +39,8 @@ This style is exactly the same as `sidebarleft`, except that the side bar is on 
 
 ### Acknoledgements
 I got my inspiration from an older Caltech beamer theme: https://github.com/hmaarrfk/caltech-beamer. However, this theme is already outdated: the Caltech seal image is now discouraged for non-formal usage such as presentation slides (http://identity.caltech.edu/standards/visual/seal).
+
+### As templates
+This Beamer template has been published on both sharelatex.come and overleaf.com. Links:
+https://www.sharelatex.com/templates/58b4ad79546799785c1df893
+https://www.overleaf.com/latex/templates/caltech-beamer-template-new/rwrsmsxzdxzy
