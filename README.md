@@ -6,7 +6,7 @@ The syntax is very easy; simply insert the following command in the LaTeX preamb
 ```{tex}
 \usetheme[<option>]{Caltech}
 ```
-where `<option>" should be substituted with one of these three options: `minimal`, `sidebarleft`, or `sidebarright`. It is not recommended to leave the `<option>` blank, because the slides would have no Caltech logo.
+where `<option>` should be substituted with one of these three options: `minimal`, `sidebarleft`, or `sidebarright`. It is not recommended to leave the `<option>` blank, because the slides would have no Caltech logo.
 
 An example `.tex` template has been included (`caltech_beamer_template.tex`), which can produce the three example PDF documents in this repository.
 
