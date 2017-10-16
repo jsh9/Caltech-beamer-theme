@@ -1,5 +1,7 @@
 # Caltech beamer theme
-###### A LaTeX beamer theme using Caltech logo and color
+#### A LaTeX beamer theme using Caltech logo and color
+
+This template has been included in the Overleaf template repository: https://www.overleaf.com/edu/caltech#!templates. Source codes in this repository and on Overleaf are identical.
 
 ### How to use this theme
 The syntax is very easy; simply insert the following command in the LaTeX preamble:
