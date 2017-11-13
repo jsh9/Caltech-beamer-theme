@@ -1,7 +1,7 @@
 # Caltech beamer theme
 #### A LaTeX beamer theme using Caltech logo and color
 
-This template has been included in the Overleaf template repository: https://www.overleaf.com/edu/caltech#!templates. Source codes in this repository and on Overleaf are identical.
+This template has been included in the Overleaf template repository [link](https://www.overleaf.com/edu/caltech#!templates) and Sharelatex template repository [link](https://www.sharelatex.com/templates/58b4ad79546799785c1df893). Source codes in this repository and on Overleaf/Sharelatex are identical.
 
 ### How to use this theme
 The syntax is very easy; simply insert the following command in the LaTeX preamble:
@@ -12,7 +12,7 @@ where `<option>` should be substituted with one of these three options: `minimal
 
 An example `.tex` template has been included (`caltech_beamer_template.tex`), which can produce the three example PDF documents in this repository.
 
-### How does this theme look like
+### What does this theme look like
 ##### 1. The `minimal` style
 This style has the Caltech logo on the bottom-right corner, and slide titles in Caltech orange. This style is named "minimal" because there are minimal decorations on it. This style looks good in both 4:3 and 16:9 aspect ratios.
 
@@ -41,8 +41,3 @@ This style is exactly the same as `sidebarleft`, except that the side bar is on 
 
 ### Acknoledgements
 I got my inspiration from an older Caltech beamer theme: https://github.com/hmaarrfk/caltech-beamer. However, this theme is already outdated: the Caltech seal image is now discouraged for non-formal usage such as presentation slides (http://identity.caltech.edu/standards/visual/seal).
-
-### As templates
-This Beamer template has been published on both sharelatex.come and overleaf.com. Links:
-[ShareLaTeX](https://www.sharelatex.com/templates/58b4ad79546799785c1df893), 
-[Overleaf](https://www.overleaf.com/latex/templates/caltech-beamer-template-new/rwrsmsxzdxzy)
